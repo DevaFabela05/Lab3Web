@@ -4,7 +4,7 @@
 
 #### Membuat Ordered List
 Membuat dokumen HTML yang berisi judul memakai tag `<title>`, paragraf memakai tag `<p>`, hyperlink memakai tag `<a>` href untuk menunjuk URL yang akan dituju. Beginilah tampilannya:
-![gambar1](screenshot/ss1.png1)
+![gambar1](screenshot/ss1.png)
 
 #### Membuat Unorderd List
 Mendeklarasikan CSS internal pada bagian head dokumen, penulisan internal CSS menggunakan tag `<style>` yang diletakkan pada `<head>` dokumen. Inilah tampilannya:
@@ -24,20 +24,16 @@ Lalu selanjutnya kita menambahkan CSS selector menggunakan ID dan class selector
 
 #### Menggabungkan Sel Data
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
-![img]screenshot/ss7.png
-![gambarhsl](screenshot/hsl.png)
+![gambar6](screenshot/ss6.png)
 
 #### Membuat Form
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
-![img]screenshot/ss7.png
-![gambarhsl](screenshot/hsl.png)
+![gambar7](screenshot/ss7.png)
 
 #### Menabahkan Style pada Form
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
-![img]screenshot/ss7.png
-![gambarhsl](screenshot/hsl.png)
+![gambar8](screenshot/ss8.png)
 
 #### Hasil Pratikum 
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
-![img]screenshot/ss7.png
 ![gambarhsl](screenshot/hsl.png)
